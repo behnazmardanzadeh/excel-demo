@@ -1,9 +1,9 @@
-package com.algocoding.excelreader.presentation;
+package com.algocoding.excel.presentation;
 
-import com.algocoding.excelreader.application.usecase.ReadExcelUseCase;
-import com.algocoding.excelreader.domain.ExcelData;
-import com.algocoding.excelreader.infrastructure.repository.ExcelFileRepository;
-import com.algocoding.excelreader.infrastructure.service.ExcelReaderService;
+import com.algocoding.excel.application.usecase.ReadExcelUseCase;
+import com.algocoding.excel.domain.ExcelData;
+import com.algocoding.excel.infrastructure.repository.ExcelFileRepository;
+import com.algocoding.excel.infrastructure.service.ExcelReaderService;
 
 import java.util.List;
 import java.util.Map;

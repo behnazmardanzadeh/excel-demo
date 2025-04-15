@@ -1,4 +1,4 @@
-package com.algocoding.excelreader.domain;
+package com.algocoding.excel.domain;
 
 import java.util.Map;
 import java.util.Set;

@@ -1,7 +1,7 @@
-package com.algocoding.excelreader.application.usecase;
+package com.algocoding.excel.application.usecase;
 
-import com.algocoding.excelreader.domain.ExcelData;
-import com.algocoding.excelreader.infrastructure.service.ExcelReaderService;
+import com.algocoding.excel.domain.ExcelData;
+import com.algocoding.excel.infrastructure.service.ExcelReaderService;
 
 import java.io.IOException;
 import java.util.List;

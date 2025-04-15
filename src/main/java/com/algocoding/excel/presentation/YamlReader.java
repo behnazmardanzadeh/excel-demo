@@ -1,4 +1,4 @@
-package com.algocoding.excelreader.presentation;
+package com.algocoding.excel.presentation;
 
 import org.yaml.snakeyaml.Yaml;
 

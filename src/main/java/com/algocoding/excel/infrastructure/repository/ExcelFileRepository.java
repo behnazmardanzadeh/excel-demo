@@ -1,11 +1,11 @@
-package com.algocoding.excelreader.infrastructure.repository;
+package com.algocoding.excel.infrastructure.repository;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.*;
 
-import com.algocoding.excelreader.domain.ExcelData;
+import com.algocoding.excel.domain.ExcelData;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 

@@ -1,7 +1,7 @@
-package com.algocoding.excelreader.infrastructure.service;
+package com.algocoding.excel.infrastructure.service;
 
-import com.algocoding.excelreader.domain.ExcelData;
-import com.algocoding.excelreader.infrastructure.repository.ExcelFileRepository;
+import com.algocoding.excel.domain.ExcelData;
+import com.algocoding.excel.infrastructure.repository.ExcelFileRepository;
 
 import java.io.IOException;
 import java.util.List;
